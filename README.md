@@ -40,6 +40,9 @@ This project analyzes sales data and presents useful insights using Excel formul
 - Pivot Table analysis
 - Sales visualization using charts
 - Dashboard creation
+ 
+## Author
+Shamsuthin.M
 
 ## 🎯 Project Objective
 
